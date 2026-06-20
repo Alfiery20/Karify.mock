@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="Karify.Mock.Api/Karify.Mock.Api.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Karify.Mock.Application/Karify.Mock.Application.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Karify.Mock.Persistence/Karify.Mock.Persistence.csproj" />
+  </Folder>
+</Solution>
